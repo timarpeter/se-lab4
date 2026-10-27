@@ -1,0 +1,3 @@
+# ALL: elég, ha az egyik torpedó elsül
+GT4500,1,1.0,1,0
+TORPEDO,ALL

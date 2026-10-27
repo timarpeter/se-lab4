@@ -1,0 +1,3 @@
+# ALL: ha mindkét tár üres, nem lehet tüzelni
+GT4500,0,0,0,0
+TORPEDO,ALL

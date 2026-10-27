@@ -1,0 +1,4 @@
+# SINGLE: a másodlagos üres, az elsődleges újra lő
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # elsődleges lő
+TORPEDO,SINGLE  # másodlagos üres, elsődleges újra lő
