@@ -1,0 +1,4 @@
+# SINGLE: a tárak felváltva tüzelnek
+GT4500,2,0,1,1.0
+TORPEDO,SINGLE  # elsődleges lő
+TORPEDO,SINGLE  # másodlagos lő és hibázik

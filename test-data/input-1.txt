@@ -1,0 +1,3 @@
+# SINGLE: első tüzelésnél az elsődleges tár lő
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # az elsődleges tárból kell lőnie
