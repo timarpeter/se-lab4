@@ -1,0 +1,4 @@
+# SINGLE: az elsődleges lőtt utoljára, utána mindkét tár üres
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # elsődleges lő, utána kiürül
+TORPEDO,SINGLE  # másodlagos üres, elsődleges is üres: nem lehet tüzelni
